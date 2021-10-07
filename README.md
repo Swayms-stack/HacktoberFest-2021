@@ -18,17 +18,17 @@
 
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
+### 🗣 Hacktoberfest promotes engagement in the open source community, which continues to grow year after year. Earn a special limited edition T-shirt after completing the 2021 challenge.
 
-📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for the Hacktoberfest and make at least four pull requests (PRs) between October 1st-31st to grab the free SWAGS 🔥.**
 
 
 > Upload your code in this repository to particular section if folder is not present then create folder.
 > some more repos for contribution
 
 ## Rules
-- Motivation Quotes are acceptable.
-- Don't use filthy words and be welcome for beginners and other people in this community.
+- Motivational Quotes are acceptable.
+- Don't use foul language, and welcome newcomers and other members of the community.
 
 ---
 
@@ -41,14 +41,14 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding coomit below
+The steps for adding commit are mentioned below :
 
     1. Fork this repo
-    2. go to folder user (or create folder if you like) in which you want to contribute
-    3. then add your file with your username or file name should be your username ----->
+    2. Go to the user folder(or create a folder if you like) in which you want to   contribute
+    3. Then add your file with your username or file name should be your username ----->
     4. username.json
-    5. this file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
-    6. for example
+    5. This file should have field -> Name,Occupation,UserName,StaredTheRepo,FavouriteQuote
+    6. For Example :
 ```json
 {
     "Name":"Keshav Singh",
@@ -58,14 +58,14 @@ Steps for adding coomit below
     "FavouriteQuote":"keep patience and be happy"
 }
 ```   
-- then create pull request.
+- Then create pull request.
 
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions of any sort of document are welcome, but they must be meaningful !
 
 ## License
 
